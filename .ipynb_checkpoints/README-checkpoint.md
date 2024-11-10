@@ -99,7 +99,7 @@ To do so, complete the following steps:
 
 #### Part 4: Discuss creating a recommendation system for student loans
 
-## **1. Describe the data that you would need to collect to build a recommendation system to recommend student loan options for students. Explain why this data would be relevant and appropriate.**
+### **1. Describe the data that you would need to collect to build a recommendation system to recommend student loan options for students. Explain why this data would be relevant and appropriate.**
 To build a robust recommendation system for student loan options, the features you provided are quite comprehensive. However, there are a few additional features that could enhance the effectiveness of the recommendations:
 
 -  **Student Demographics**: Age, gender, and socioeconomic background can help tailor loan options to individual circumstances.
@@ -117,7 +117,7 @@ To build a robust recommendation system for student loan options, the features y
 
 By adding these features, the recommendation system can provide more personalized and practical loan options tailored to each student's unique circumstances and preferences
 
-## **2. Based on the data you chose to use in this recommendation system, would your model be using collaborative filtering, content-based filtering, or context-based filtering? Justify why the data you selected would be suitable for your choice of filtering method.**
+### **2. Based on the data you chose to use in this recommendation system, would your model be using collaborative filtering, content-based filtering, or context-based filtering? Justify why the data you selected would be suitable for your choice of filtering method.**
 **Justification**:
 
 -   **Specificity**: Content-based filtering relies on the specific attributes of users and items (in this case, loan options) to make recommendations. The data collected is highly specific to each student and their financial and academic background, making it ideal for content-based filtering.
@@ -129,7 +129,7 @@ By adding these features, the recommendation system can provide more personalize
 
 Overall, the data selected is suitable for content-based filtering as it is rich in attributes specific to each student and the loan products, enabling the recommendation system to make personalized and accurate loan suggestions.
 
-## **3. Describe two real-world challenges that you would take into consideration while building a recommendation system for student loans. Explain why these challenges would be of concern for a student loan recommendation system.**
+### **3. Describe two real-world challenges that you would take into consideration while building a recommendation system for student loans. Explain why these challenges would be of concern for a student loan recommendation system.**
 Building a recommendation system for student loans involves navigating a few significant real-world challenges. Here are two key challenges and their implications:
 
 ### 1. **Data Privacy and Security**:
